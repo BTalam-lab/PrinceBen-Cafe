@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /private/
+Disallow: /downloads/
+Disallow: /admin/
+Allow: /
+
+Sitemap: https://btalam-lab.github.io/PrinceBen-Cafe/sitemap.xml
