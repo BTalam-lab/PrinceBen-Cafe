@@ -1,0 +1,38 @@
+.navbar-custom {
+      background-color: skyblue;
+    }
+    .navbar-custom .nav-link, .navbar-custom .navbar-brand {
+      color: black;
+    }
+    .navbar-custom .nav-link:hover {
+      color: #fff;
+    }
+
+    .service-icon {
+      font-size: 3rem;
+      color: #0d6efd;
+    }
+    .service-box {
+      transition: transform 0.3s ease;
+    }
+    .service-box:hover {
+      transform: translateY(-10px);
+    }
+    footer {
+      background-color: #006400;
+      color: white;
+      padding: 40px 0;
+    }
+    footer a {
+      color: #a8e6a3;
+      text-decoration: none;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+    .footer-bottom {
+      background-color: #002d40;
+      padding: 15px 0;
+      text-align: center;
+      color: white;
+    }
